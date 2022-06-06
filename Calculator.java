@@ -22,4 +22,7 @@ return a*b;
     public double divide(int a,int b){
         return a/b;
     }    
+    public int sub(int a,int b,int c){
+        return a-b-c;
+    }    
     }
